@@ -2,6 +2,10 @@
 
 SpamGuard Pro is a sophisticated spam detection prototype leveraging machine learning techniques with scikit-learn and Python. This project serves as a foundational reference for those interested in developing advanced spam detection systems.
 
+## Screenshot
+
+![SpamGuard Pro Screenshot](https://github.com/goktugerol-dev/SpamGuard-Pro/raw/master/screenshot/screenshot.png)
+
 ## Project Overview
 
 The project comprises two primary Python scripts:
